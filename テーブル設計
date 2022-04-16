@@ -1,0 +1,18 @@
+# テーブル設計
+
+## mynavi_urls
+
+id
+url
+created_at
+updated_at
+
+## mynavi_jobs
+
+id
+url
+title
+company_name
+features
+created_at
+updated_at
